@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\FiveToSeven\\FiveToSeven.csproj": {}
+    "C:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\FiveToSeven\\FiveToSeven.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\FiveToSeven\\FiveToSeven.csproj": {
+    "C:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\FiveToSeven\\FiveToSeven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\FiveToSeven\\FiveToSeven.csproj",
+        "projectUniqueName": "C:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\FiveToSeven\\FiveToSeven.csproj",
         "projectName": "FiveToSeven",
-        "projectPath": "c:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\FiveToSeven\\FiveToSeven.csproj",
+        "projectPath": "C:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\FiveToSeven\\FiveToSeven.csproj",
         "packagesPath": "C:\\Users\\Jeria\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\FiveToSeven\\obj\\",
+        "outputPath": "C:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\FiveToSeven\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jeria\\AppData\\Roaming\\NuGet\\NuGet.Config"

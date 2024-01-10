@@ -1,5 +1,5 @@
 namespace FiveToSeven.Services.BSeven;
 public interface IBSevenServices
 {
-    string seven(string userInput)
+    string seven(string userInput);
 }
