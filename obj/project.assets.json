@@ -469,19 +469,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jeria\\.nuget\\packages\\": {}
+    "C:\\Users\\danny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\FiveToSeven\\FiveToSeven.csproj",
+      "projectUniqueName": "C:\\Users\\danny\\Documents\\gitRepo\\FiveToSeven\\FiveToSeven.csproj",
       "projectName": "FiveToSeven",
-      "projectPath": "C:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\FiveToSeven\\FiveToSeven.csproj",
-      "packagesPath": "C:\\Users\\Jeria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\FiveToSeven\\obj\\",
+      "projectPath": "C:\\Users\\danny\\Documents\\gitRepo\\FiveToSeven\\FiveToSeven.csproj",
+      "packagesPath": "C:\\Users\\danny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\danny\\Documents\\gitRepo\\FiveToSeven\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jeria\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\danny\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
