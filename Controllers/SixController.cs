@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace FiveToSeven.Controllers;
 [ApiController]
 [Route("[controller]")]
-public class SixController
+public class SixController : ControllerBase
 {
     private readonly ISixServices _sixServices;
 

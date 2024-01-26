@@ -20,12 +20,12 @@ public class BSevenServices : IBSevenServices
                 num = num / 10;
             }
 
-            return j.ToString();
+            return userInput + " reversed is " + j.ToString();
 
         }
         else
         {
-            return ($"failed, that was not a number");
+            return "failed, that was not a number";
         }
     }
 

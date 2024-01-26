@@ -9,6 +9,6 @@ public class SevenServices : ISevenServices
         {
             reversed += userInput[i];
         }
-        return reversed;
+        return userInput + " reversed is " + reversed;
     }
 }

@@ -1,36 +1,3 @@
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\FiveToSeven.csproj.AssemblyReference.cache
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\FiveToSeven.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\FiveToSeven.AssemblyInfoInputs.cache
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\FiveToSeven.AssemblyInfo.cs
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\FiveToSeven.csproj.CoreCompileInputs.cache
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\FiveToSeven.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\FiveToSeven.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\bin\Debug\net7.0\appsettings.json
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\bin\Debug\net7.0\FiveToSeven.exe
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\bin\Debug\net7.0\FiveToSeven.deps.json
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\bin\Debug\net7.0\FiveToSeven.runtimeconfig.json
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\bin\Debug\net7.0\FiveToSeven.dll
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\bin\Debug\net7.0\FiveToSeven.pdb
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\staticwebassets\msbuild.FiveToSeven.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\staticwebassets\msbuild.build.FiveToSeven.props
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FiveToSeven.props
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FiveToSeven.props
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\scopedcss\bundle\FiveToSeven.styles.css
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\FiveToSeven.csproj.CopyComplete
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\FiveToSeven.dll
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\refint\FiveToSeven.dll
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\FiveToSeven.pdb
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\FiveToSeven.genruntimeconfig.cache
-C:\Users\Jeria\OneDrive\Desktop\CodeStack lvl 2\FiveToSeven\obj\Debug\net7.0\ref\FiveToSeven.dll
 C:\Users\danny\Documents\gitRepo\FiveToSeven\obj\Debug\net7.0\FiveToSeven.csproj.AssemblyReference.cache
 C:\Users\danny\Documents\gitRepo\FiveToSeven\obj\Debug\net7.0\FiveToSeven.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\danny\Documents\gitRepo\FiveToSeven\obj\Debug\net7.0\FiveToSeven.AssemblyInfoInputs.cache
